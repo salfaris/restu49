@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Restu 49th Edition',
-  tagline: 'Memories in the 2015',
+  title: 'Restu Edisi 49',
+  tagline: 'Memori zaman KISAS anda kini di hujung jari.',
   favicon: 'restu49/01-cover-depan.jpg',
 
   // Set the production url of your site here
