@@ -3,6 +3,7 @@ slug: /album-kelas/ma60
 title: Miftahul Asywaq 60
 sidebar_label: Miftahul Asywaq 60
 sidebar_position: 4
+description: Album kelas Miftahul Asywaq 60 2015
 image: /restu49/97-UOD-MA60.jpg
 ---
 

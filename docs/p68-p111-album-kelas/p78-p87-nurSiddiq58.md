@@ -3,6 +3,7 @@ slug: /album-kelas/ns58
 title: Nur Siddiq 58
 sidebar_label: Nur Siddiq 58
 sidebar_position: 3
+description: Album kelas Nur Siddiq 58 2015
 image: /restu49/87-UOD-Nur-Siddiq-58-NEW.jpg
 ---
 

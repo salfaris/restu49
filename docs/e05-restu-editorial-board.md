@@ -3,6 +3,7 @@ slug: /editorial-board
 title: Editorial Board
 sidebar_label: Editorial Board
 sidebar_position: 5
+description: Editorial board Restu Edisi 49
 image: /restu49/07-editorial-board-1.jpg
 ---
 

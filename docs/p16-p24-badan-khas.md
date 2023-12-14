@@ -3,6 +3,7 @@ slug: /badan-khas
 title: Badan Khas
 sidebar_label: Badan Khas
 sidebar_position: 10
+description: Badan khas kolej
 image: /restu49/25-DIVIDER-badan-khas.jpg
 ---
 

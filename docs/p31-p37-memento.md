@@ -3,6 +3,7 @@ slug: /memento
 title: Memento
 sidebar_label: Memento
 sidebar_position: 12
+description: Memento - memori indah sepanjang tahun 2015
 image: /restu49/40-DIVIDER-memento.jpg
 ---
 

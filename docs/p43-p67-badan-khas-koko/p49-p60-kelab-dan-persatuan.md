@@ -2,6 +2,7 @@
 title: Kelab & Persatuan
 sidebar_label: Kelab & Persatuan
 sidebar_position: 2
+description: Kelab & Persatuan
 image: /restu49/58-kelab-persatuan-1.jpg
 ---
 

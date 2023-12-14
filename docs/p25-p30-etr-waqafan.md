@@ -3,6 +3,7 @@ slug: /etr-waqafan
 title: ETR Waqafan
 sidebar_label: ETR Waqafan
 sidebar_position: 11
+description: ETR Kolej Islam tahun 2014-2015
 image: /restu49/34-DIVIDER-ETR-Kolej.jpg
 ---
 

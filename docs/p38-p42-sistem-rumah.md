@@ -3,6 +3,7 @@ slug: /sistem-rumah
 title: Sistem Rumah
 sidebar_label: Sistem Rumah
 sidebar_position: 13
+description: Sistem rumah KISAS - Thariq, Ali, Omar dan Khalid
 image: /restu49/47-DIVIDER-sistem-rumah.jpg
 ---
 

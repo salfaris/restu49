@@ -3,6 +3,7 @@ slug: /tunjang-waqafan
 title: Tunjang Waqafan
 sidebar_label: Tunjang Waqafan
 sidebar_position: 9
+description: Barisan pentadbir, guru dan staf
 image: /restu49/19-DIVIDER-tunjang-waqafan.jpg
 ---
 

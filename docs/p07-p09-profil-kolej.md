@@ -3,6 +3,7 @@ slug: /profil-kolej
 title: Profil Kolej
 sidebar_label: Profil Kolej
 sidebar_position: 8
+description: Logo, lambang, dan sejarah Kolej Islam
 image: /restu49/16-logo-kolej.jpg
 ---
 

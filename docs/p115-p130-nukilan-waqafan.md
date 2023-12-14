@@ -3,6 +3,7 @@ slug: /nukilan-waqafan
 title: Nukilan Waqafan
 sidebar_label: Nukilan Waqafan
 sidebar_position: 16
+description: Karya-karya yang dihasilkan oleh warga KISAS
 image: /restu49/124-DIVIDER-Nukilan-Waqafan.jpg
 ---
 

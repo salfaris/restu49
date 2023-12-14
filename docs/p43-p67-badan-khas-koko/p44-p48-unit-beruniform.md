@@ -2,6 +2,7 @@
 title: Unit Uniform
 sidebar_label: Unit Uniform
 sidebar_position: 1
+description: Unit Beruniform
 image: /restu49/53-badan-khas-1.jpg
 ---
 
