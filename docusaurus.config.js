@@ -137,7 +137,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Restu 49, KISAS. Built with Docusaurus. Maintained <a href="https://github.com/salfaris/restu49">here</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Restu 49, KISAS. Maintained <a href="https://github.com/salfaris/restu49">here</a> by Salman F.`,
       },
       prism: {
         theme: prismThemes.github,
