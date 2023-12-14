@@ -73,7 +73,9 @@ const config = {
         title: 'Restu Edisi 49',
         logo: {
           alt: 'Restu 49 Logo',
-          src: 'restu49/01-cover-depan.jpg',
+          src: 'restu49-logo.png',
+          srcDark: 'restu49-logo-dark-mode.png',
+          className: 'custom-navbar-logo-class',
         },
         items: [
           // {
@@ -137,7 +139,15 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Restu 49, KISAS. Maintained <a href="https://github.com/salfaris/restu49">here</a> by Salman F.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Restu 49, KISAS. Maintained <a href="https://github.com/salfaris/restu49">here</a> by Salman Faris.`,
+      },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Welcome to the revamped Restu Edisi 49 website!',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
       },
       prism: {
         theme: prismThemes.github,
