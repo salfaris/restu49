@@ -4,7 +4,7 @@ This repo hosts the source code for the [RESTU 49 web version](https://restu49.n
 
 <img src="static/restu49/01-cover-depan.jpg" alt="cover" width="500"/>
 
-## Thanks
+## Terima Kasih
 
 We thank the open source community and all the freemium services that we use to build this site including:
 - Docusaurus
@@ -12,6 +12,8 @@ We thank the open source community and all the freemium services that we use to 
 - Netlify (for hosting)
 
 We also want to thank all the people that supported and inspired us to revamp this site.
+
+And needless to say, thanks to the amazing RESTU 49 team for their hard work and dedication across 2014-2015.
 
 ## Contribution
 
