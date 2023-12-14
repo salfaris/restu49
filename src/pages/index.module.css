@@ -3,12 +3,12 @@
  * and scoped locally.
  */
 
-.heroBanner {
+/* .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
-}
+} */
 
 @media screen and (max-width: 996px) {
   .heroBanner {
@@ -21,3 +21,44 @@
   align-items: center;
   justify-content: center;
 }
+
+.indexCtas {
+  --ifm-button-size-multiplier: 1.6;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 24px;
+}
+
+.indexCtas a:last-of-type {
+  margin: 20px 0;
+}
+
+.heroProjectTagline {
+  color: #fff;
+  font-size: 50px;
+  margin: 0;
+}
+
+.heroTitleTextHtml b {
+  color: var(--ifm-color-primary-lightest);
+}
+
+.heroTitleTextHtml p {
+  font-size: 20px;
+}
+
+.heroInner {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 20px;
+}
+
+.hero {
+  background-color: #2b3137;
+  /* background-image: url("/static/header-chunk.png"); */
+  padding: 48px;
+}
+
+/* .heroBackgroundBanner {
+} */
