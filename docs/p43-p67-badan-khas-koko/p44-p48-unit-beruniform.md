@@ -2,7 +2,7 @@
 title: Unit Uniform
 sidebar_label: Unit Uniform
 sidebar_position: 1
-description: Unit Beruniform
+description: Album gambar kelab unit beruniform
 image: /restu49/53-badan-khas-1.jpg
 ---
 

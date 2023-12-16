@@ -3,7 +3,7 @@ slug: /perutusan-kolej
 title: Perutusan Kolej
 sidebar_label: Perutusan Kolej
 sidebar_position: 6
-description: Perutusan kolej
+description: Perutusan kolej dan ucapan-ucapan aluan
 image: /restu49/10-perutusan-kolej.jpg
 ---
 

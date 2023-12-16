@@ -1,6 +1,6 @@
 ---
 slug: /
-title: Restu Edisi 49
+title: Front Cover
 sidebar_label: Front Cover
 description: Memori zaman KISAS anda kini di hujung jari
 sidebar_position: 1

@@ -2,7 +2,7 @@
 title: Sukan & Permainan
 sidebar_label: Sukan & Permainan
 sidebar_position: 3
-description: Sukan & Permainan
+description: Album gambar persatuan sukan dan permainan
 image: /restu49/70-sukan-permainan-1.jpg
 ---
 
